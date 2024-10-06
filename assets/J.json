@@ -1,0 +1,802 @@
+[
+  {
+    "id": 0,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\.git\\hooks\\._README.sample",
+    "file_name": "._README.sample",
+    "file_extension": "sample",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 1,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\.git\\hooks\\README.sample",
+    "file_name": "README.sample",
+    "file_extension": "sample",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 17:27:00"
+  },
+  {
+    "id": 2,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\.vscode\\._launch.json",
+    "file_name": "._launch.json",
+    "file_extension": "json",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 3,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\.vscode\\launch.json",
+    "file_name": "launch.json",
+    "file_extension": "json",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-18 16:24:15"
+  },
+  {
+    "id": 4,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._.DS_Store",
+    "file_name": "._.DS_Store",
+    "file_extension": "DS_Store",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 5,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._.git",
+    "file_name": "._.git",
+    "file_extension": "git",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 6,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._.gitignore",
+    "file_name": "._.gitignore",
+    "file_extension": "gitignore",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 7,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._.vscode",
+    "file_name": "._.vscode",
+    "file_extension": "vscode",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 8,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._Cargo.lock",
+    "file_name": "._Cargo.lock",
+    "file_extension": "lock",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 9,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._Cargo.toml",
+    "file_name": "._Cargo.toml",
+    "file_extension": "toml",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 10,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\._memo.txt",
+    "file_name": "._memo.txt",
+    "file_extension": "txt",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 11,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\._.DS_Store",
+    "file_name": "._.DS_Store",
+    "file_extension": "DS_Store",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 12,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._.DS_Store",
+    "file_name": "._.DS_Store",
+    "file_extension": "DS_Store",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 13,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._explosionCrunch_000.ogg",
+    "file_name": "._explosionCrunch_000.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 14,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._kenney_impact-sounds.zip",
+    "file_name": "._kenney_impact-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 15,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._kenney_interface-sounds.zip",
+    "file_name": "._kenney_interface-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 16,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._kenney_sci-fi-sounds.zip",
+    "file_name": "._kenney_sci-fi-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 17,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._laserLarge_000.ogg",
+    "file_name": "._laserLarge_000.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 18,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._pluck_001.ogg",
+    "file_name": "._pluck_001.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 19,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\._pluck_002.ogg",
+    "file_name": "._pluck_002.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 20,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\explosionCrunch_000.ogg",
+    "file_name": "explosionCrunch_000.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2020-10-11 14:59:12"
+  },
+  {
+    "id": 21,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\kenney_impact-sounds.zip",
+    "file_name": "kenney_impact-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 17:31:38"
+  },
+  {
+    "id": 22,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\kenney_interface-sounds.zip",
+    "file_name": "kenney_interface-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 17:32:26"
+  },
+  {
+    "id": 23,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\kenney_sci-fi-sounds.zip",
+    "file_name": "kenney_sci-fi-sounds.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 17:32:09"
+  },
+  {
+    "id": 24,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\laserLarge_000.ogg",
+    "file_name": "laserLarge_000.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2020-09-28 15:17:28"
+  },
+  {
+    "id": 25,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\pluck_001.ogg",
+    "file_name": "pluck_001.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2019-11-26 12:36:32"
+  },
+  {
+    "id": 26,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\audio\\pluck_002.ogg",
+    "file_name": "pluck_002.ogg",
+    "file_extension": "ogg",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2019-11-26 12:36:34"
+  },
+  {
+    "id": 27,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\fonts\\._FiraSans-Bold.ttf",
+    "file_name": "._FiraSans-Bold.ttf",
+    "file_extension": "ttf",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 28,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\fonts\\FiraSans-Bold.ttf",
+    "file_name": "FiraSans-Bold.ttf",
+    "file_extension": "ttf",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-30 21:05:55"
+  },
+  {
+    "id": 29,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._.DS_Store",
+    "file_name": "._.DS_Store",
+    "file_extension": "DS_Store",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 30,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._ball_blue_large.png",
+    "file_name": "._ball_blue_large.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 31,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._ball_red_large.png",
+    "file_name": "._ball_red_large.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 32,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_1_1.png",
+    "file_name": "._enemy_1_1.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 33,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_1_2.PNG",
+    "file_name": "._enemy_1_2.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 34,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_1.PNG",
+    "file_name": "._enemy_2_1.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 35,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_2.PNG",
+    "file_name": "._enemy_2_2.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 36,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_3.PNG",
+    "file_name": "._enemy_2_3.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 37,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_4.PNG",
+    "file_name": "._enemy_2_4.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 38,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_5.PNG",
+    "file_name": "._enemy_2_5.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 39,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._enemy_2_6.PNG",
+    "file_name": "._enemy_2_6.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 40,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._flygirl.png",
+    "file_name": "._flygirl.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 41,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0356.PNG",
+    "file_name": "._IMG_0356.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 42,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0358.PNG",
+    "file_name": "._IMG_0358.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 43,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0359.PNG",
+    "file_name": "._IMG_0359.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 44,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0362.PNG",
+    "file_name": "._IMG_0362.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 45,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0363.PNG",
+    "file_name": "._IMG_0363.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 46,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0364.PNG",
+    "file_name": "._IMG_0364.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:10"
+  },
+  {
+    "id": 47,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._IMG_0365.PNG",
+    "file_name": "._IMG_0365.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 48,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._item.PNG",
+    "file_name": "._item.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 49,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._kenney_rolling-ball-assets.zip",
+    "file_name": "._kenney_rolling-ball-assets.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 50,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._star.png",
+    "file_name": "._star.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 51,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\._tomoko.png",
+    "file_name": "._tomoko.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 52,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\ball_blue_large.png",
+    "file_name": "ball_blue_large.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 18:45:08"
+  },
+  {
+    "id": 53,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\ball_red_large.png",
+    "file_name": "ball_red_large.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 18:59:47"
+  },
+  {
+    "id": 54,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_1_1.png",
+    "file_name": "enemy_1_1.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 18:16:34"
+  },
+  {
+    "id": 55,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_1_2.PNG",
+    "file_name": "enemy_1_2.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 14:24:32"
+  },
+  {
+    "id": 56,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_1.PNG",
+    "file_name": "enemy_2_1.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 57,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_2.PNG",
+    "file_name": "enemy_2_2.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 58,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_3.PNG",
+    "file_name": "enemy_2_3.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 59,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_4.PNG",
+    "file_name": "enemy_2_4.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 60,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_5.PNG",
+    "file_name": "enemy_2_5.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 61,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\enemy_2_6.PNG",
+    "file_name": "enemy_2_6.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 15:29:21"
+  },
+  {
+    "id": 62,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\flygirl.png",
+    "file_name": "flygirl.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 21:03:46"
+  },
+  {
+    "id": 63,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0356.PNG",
+    "file_name": "IMG_0356.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 16:53:42"
+  },
+  {
+    "id": 64,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0358.PNG",
+    "file_name": "IMG_0358.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 16:53:42"
+  },
+  {
+    "id": 65,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0359.PNG",
+    "file_name": "IMG_0359.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 16:53:42"
+  },
+  {
+    "id": 66,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0362.PNG",
+    "file_name": "IMG_0362.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 17:29:06"
+  },
+  {
+    "id": 67,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0363.PNG",
+    "file_name": "IMG_0363.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 17:29:06"
+  },
+  {
+    "id": 68,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0364.PNG",
+    "file_name": "IMG_0364.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 17:29:06"
+  },
+  {
+    "id": 69,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\IMG_0365.PNG",
+    "file_name": "IMG_0365.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 17:29:06"
+  },
+  {
+    "id": 70,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\item.PNG",
+    "file_name": "item.PNG",
+    "file_extension": "PNG",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 16:53:42"
+  },
+  {
+    "id": 71,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\kenney_rolling-ball-assets.zip",
+    "file_name": "kenney_rolling-ball-assets.zip",
+    "file_extension": "zip",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-16 17:31:16"
+  },
+  {
+    "id": 72,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\star.png",
+    "file_name": "star.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-18 15:29:37"
+  },
+  {
+    "id": 73,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\assets\\sprites\\tomoko.png",
+    "file_name": "tomoko.png",
+    "file_extension": "png",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 20:04:34"
+  },
+  {
+    "id": 74,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\Cargo.lock",
+    "file_name": "Cargo.lock",
+    "file_extension": "lock",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:58:41"
+  },
+  {
+    "id": 75,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\Cargo.toml",
+    "file_name": "Cargo.toml",
+    "file_extension": "toml",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 20:03:18"
+  },
+  {
+    "id": 76,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\memo.txt",
+    "file_name": "memo.txt",
+    "file_extension": "txt",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 21:19:28"
+  },
+  {
+    "id": 77,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\._events.rs",
+    "file_name": "._events.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 78,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\._main.rs",
+    "file_name": "._main.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 79,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\._systems.rs",
+    "file_name": "._systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 80,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\events.rs",
+    "file_name": "events.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 11:48:11"
+  },
+  {
+    "id": 81,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\._mod.rs",
+    "file_name": "._mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 82,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\._systems.rs",
+    "file_name": "._systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 83,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\._components.rs",
+    "file_name": "._components.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 84,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\._mod.rs",
+    "file_name": "._mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 85,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\._resources.rs",
+    "file_name": "._resources.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 86,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\._systems.rs",
+    "file_name": "._systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 87,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\components.rs",
+    "file_name": "components.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 16:57:14"
+  },
+  {
+    "id": 88,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\mod.rs",
+    "file_name": "mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-25 20:56:56"
+  },
+  {
+    "id": 89,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\resources.rs",
+    "file_name": "resources.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 17:08:23"
+  },
+  {
+    "id": 90,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\enemy\\systems.rs",
+    "file_name": "systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-25 20:54:21"
+  },
+  {
+    "id": 91,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\mod.rs",
+    "file_name": "mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 21:41:55"
+  },
+  {
+    "id": 92,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\._components.rs",
+    "file_name": "._components.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 93,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\._mod.rs",
+    "file_name": "._mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 94,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\._systems.rs",
+    "file_name": "._systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 95,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\components.rs",
+    "file_name": "components.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-19 14:47:22"
+  },
+  {
+    "id": 96,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\mod.rs",
+    "file_name": "mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 20:58:50"
+  },
+  {
+    "id": 97,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\player\\systems.rs",
+    "file_name": "systems.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2023-08-28 21:04:14"
+  },
+  {
+    "id": 98,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\score\\._mod.rs",
+    "file_name": "._mod.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  },
+  {
+    "id": 99,
+    "file_path": "C:\\Users\\oasis\\OneDrive\\Desktop\\RUST\\bevy-ball-game\\src\\game\\score\\._resources.rs",
+    "file_name": "._resources.rs",
+    "file_extension": "rs",
+    "created_date": "2024-08-31 19:27:03",
+    "updated_date": "2024-08-31 19:36:11"
+  }
+]
